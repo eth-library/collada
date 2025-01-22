@@ -1,0 +1,13 @@
+requests==2.32.3
+tika==2.6.0
+flair==0.14.0
+spacy==3.7.5
+pytesseract==0.3.13
+jiwer==3.0.5
+kraken==5.2.9
+pyvips==2.2.3
+pandas==2.0.3
+seaborn==0.13.2
+nltk==3.9.1
+gensim==4.3.3
+wordcloud==1.9.4
