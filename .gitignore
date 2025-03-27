@@ -1,1 +1,4 @@
 data/word_count_dewiki_chnames.json
+data/ocr_data/output
+data/ner_data/output
+data/embedding_data/output
