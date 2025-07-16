@@ -1,5 +1,8 @@
 # Data Stories
-
+## Who is this for?
+People in the humanities with some (minimal) programming experience.
+## Download the data
+You can download the data [here](https://polybox.ethz.ch/index.php/s/Qb5iqtwnNN6nkPd), unzip the file and place the files and folders in the data directory (currently empty) so the paths all work.
 ## Create a virtual environment
 ### Windows
 #### Install Python
@@ -52,3 +55,6 @@ that helps us with the installation of the other packages.
 ```
 pip install -r requirements.txt
 ```
+
+# Contact
+For help with the code, suggestions or otherwise, you can contact me at: rashitig@ethz.ch
