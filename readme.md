@@ -7,11 +7,11 @@ You can download the data [here](https://polybox.ethz.ch/index.php/s/Qb5iqtwnNN6
 ### Windows
 #### Install Python
 Download your version of Python here:
-https://www.python.org/downloads/release/python-3133/
+https://www.python.org/downloads/release/python-31210/
 #### Set up env
 1. Open a terminal in the folder of this repo, select "command prompt" and enter this:
 ```
-py -3.13 -m venv "env_datastories"
+py -3.12 -m venv "env_datastories"
 ```
 2. Now you activate said environment by copy and pasting this into the terminal:
 ```
@@ -36,11 +36,11 @@ Now copy-paste the command:
 ```
 brew list | grep python
 ```
-There should be python@3.12 and python@3.13 listed. When installing Homebrew, Python was automatically installed.
+There should be python@3.12 and python@3.12 listed. When installing Homebrew, Python was automatically installed.
 #### Set up env
 1. Then you create an environment by the name of "env_datastories" with that specific Python version by copy and pasting this into the terminal:
 ```
-python3.13 -m venv "env_datastories"
+python3.12 -m venv "env_datastories"
 ```
 2. Now you activate said environment by copy and pasting this into the terminal:
 ```
